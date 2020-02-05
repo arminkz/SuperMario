@@ -1,0 +1,10 @@
+package game;
+
+public enum ColliderType {
+    BLOCKING_VERTICAL_DOWN,
+    BLOCKING_VERTICAL_UP,
+    BLOCKING_HORIZONTAL_LEFT,
+    BLOCKING_HORIZONTAL_RIGHT,
+    NON_BLOCKING,
+    MARIO
+}
